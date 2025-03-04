@@ -1,0 +1,10 @@
+body {
+    background-color: #272727; /* Mengubah latar belakang menjadi hitam */
+    color: white; /* Mengubah warna teks menjadi putih untuk kontras */
+}
+
+.container {
+    background-color: #FFFF; /* Opsional: Jika ingin menambah kontras pada konten */
+}
+
+/* Tambahkan styling lain jika perlu */
